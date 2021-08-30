@@ -5,7 +5,7 @@
 ## [First Part] Data-driven-methods in Predicting the Performance of Single-Span Slab Structure
 ![image](https://user-images.githubusercontent.com/65818525/130491833-524d5b86-f337-4004-a6b8-5c9c5e98fbb2.png)
 ---
-![image](https://user-images.githubusercontent.com/65818525/131371569-5f9b0231-3a94-4191-a96d-5a18161edccc.png)
+![image](https://user-images.githubusercontent.com/65818525/131371672-e58b133a-2cf8-4c95-95df-c69094fc3977.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/130491897-549fcb69-1ea6-4fca-ac9f-b13d7bda7d2f.png)
 
