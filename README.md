@@ -1,6 +1,23 @@
 # Data-driven-methods-in-predicting-the-performance-of-single-span-slab-structure
 
-#### Full Contents Please See the PDF Documentation
+## Software Tool & Plugin: 
+- Rhino 3D
+- Grasshopper 3D
+- Python
+- Anaconda
+- Octopus
+- Galapagos
+
+## Algorithm
+- Single-Objective Optimization
+- Multi-Objective Optimization
+- Supervised Learning
+- Deep Convolutional Neural Network
+
+## Library:
+- Tensorflow
+- Pandas
+- Scikit-learn
 
 ## [First Part] Data-driven-methods in Predicting the Performance of Single-Span Slab Structure
 ![image](https://user-images.githubusercontent.com/65818525/130491833-524d5b86-f337-4004-a6b8-5c9c5e98fbb2.png)
@@ -36,16 +53,14 @@
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131372289-6f2adea8-f4f2-4b27-adf4-028b8964fa04.png)
 ---
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/65818525/130492093-3ac40068-2e0a-4c0f-a2e7-f399a0ec8c14.png)
-
-
-
-
 ![image](https://user-images.githubusercontent.com/65818525/130492512-b5e20ce2-784d-406c-af78-c8fa51b80799.png)
-
+---
 ![image](https://user-images.githubusercontent.com/65818525/130492574-5abd0cfc-b2fb-49ba-9fcb-010acc7fb5a5.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131372462-895079ed-4b06-4a8a-ba28-d19efa9b983a.png)
+![image](https://user-images.githubusercontent.com/65818525/131372511-33d60703-97d3-4bbe-ac69-ff0ecd26eb54.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131372541-8119af45-a745-415f-9458-40f52735fb0c.png)
+---
+![image](https://user-images.githubusercontent.com/65818525/131372566-ca0d6763-d9e8-4b25-99dc-1ace6b7d3358.png)
+---
